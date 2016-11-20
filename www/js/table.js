@@ -1,7 +1,8 @@
 require('./app/jquery-ui.custom');
 var ko = require('./app/herocalc_knockout');
 require("./app/herocalc_tooltips");
-var getItemTooltipData = require("./herocalc/herocalc_tooltips_item");
+var HeroCalc = require("dota-hero-calculator-library");
+var getItemTooltipData = require("../../node_modules/dota-hero-calculator-library/src/herocalc/herocalc_tooltips_item");
 
 ko.components.register('shop', require('./components/shop'));
 
