@@ -204,12 +204,12 @@ th, td {
         <div id="main" role="main">
         <header class="banner clearfix">
                             <h2>Stats Table<div class="form-group pull-right">
-                <input style="display:none" class="btn btn-default" type="button" data-bind="visible: loaded, click: exportCSV" value="Export to CSV" />
+                <input style="display:none" class="btn btn-default" type="button" data-bind="visible: loaded, click: exportCSV" value="Export as CSV" />
                 </div></h2>
         </header>
         <section class="content">
         <h4 id="spinner">Loading...</h4>
-    <div style="display:none" data-bind="visible: loaded">
+    <div class="row" style="display:none" data-bind="visible: loaded">
     <div class="col-md-12" data-bind="css: { 'col-lg-8': displayShop() && !shopPopout() }">
         <div class="row">
             <div class="col-md-12 form-inline">
