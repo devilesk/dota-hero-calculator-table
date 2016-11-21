@@ -27,7 +27,7 @@
     "minifyify": "^7.3.3"
   },
   "dependencies": {
-    "dota-hero-calculator-library": "^1.0.3"
+    "dota-hero-calculator-library": "^1.0.4"
   },
   "browserify": {
     "transform": [
