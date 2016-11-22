@@ -1,0 +1,93 @@
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #101111;
+}
+.table-striped > tbody > tr:nth-of-type(odd):hover, tr:hover {
+    background-color: #1c1d1f;
+}
+td.long-header.td-displayname {
+    padding: 6px 8px;
+    line-height: 1em;
+}
+.table-responsive > .table > tbody > tr > td.td-displayname {
+    white-space: normal;
+}
+.header-group input[type=checkbox] {
+    display: none;
+}
+table {
+    border-collapse: separate;
+}
+.header-row {
+    border-bottom: 1px solid #ddd;
+}
+.table > tbody > tr > th {
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+    padding: 5px 8px;
+}
+.table > tbody > tr > th.up {
+    border-top: 3px solid #337ab7;
+}
+.table > tbody > tr > th.down {
+    border-bottom: 3px solid #337ab7;
+}
+.header-group {
+    width: 100px;
+    display: inline-block;
+}
+.well {
+    padding: 10px;
+    min-width: 140px;
+}
+.form-inline .form-group {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.well .form-inline .form-group {
+    margin: 0;
+}
+.well label {
+    width: 100%;
+}
+.form-inline .form-group label, .bonusAttributeLevel-label {
+    vertical-align: middle;
+    margin-bottom: 0;
+}
+.form-inline .filter-comparison {
+    width: calc(50% - 2px);
+}
+.form-inline .filter-input, .filter-comparison .form-control {
+    width: 100%;
+}
+th, td {
+    font-family: "Courier New";
+    font-size: 12px;
+}
+.option-button, .option-group, #rowcount-label {
+    width: 215px;
+}
+#rowcount-label label {
+    margin-bottom: 5px;
+}
+#rowcount-label span {
+    float: right;
+}
+.herolevel-group, .attributelevel-group {
+    position: relative;
+}
+#herolevel {
+    padding-right: 50px;
+    text-align: right;
+}
+#attributelevel {
+    padding-right: 40px;
+    text-align: right;
+}
+#herolevel-label, #attributelevel-label {
+    position: absolute;
+    line-height: 44px;
+    top: 0;
+    left: 10px;
+}

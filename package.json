@@ -18,13 +18,25 @@
   "homepage": "https://github.com/devilesk/dota-hero-calculator-table#readme",
   "devDependencies": {
     "brfs": "^1.4.3",
-    "browserify": "^13.1.0",
+    "browserify": "^13.1.1",
+    "browserify-replace": "^0.9.0",
     "browserify-shim": "^3.8.12",
+    "del": "^2.2.2",
+    "git-rev-sync": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-preprocess": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sequence": "^0.4.6",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0",
     "jquery": "^3.1.0",
     "jquery-ui": "^1.12.0",
     "knockout": "^3.4.0",
     "knockout-mapping": "^2.6.0",
-    "minifyify": "^7.3.3"
+    "minifyify": "^7.3.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
     "dota-hero-calculator-library": "^1.0.4"
