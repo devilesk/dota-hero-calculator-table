@@ -22,8 +22,11 @@
     "browserify-replace": "^0.9.0",
     "browserify-shim": "^3.8.12",
     "del": "^2.2.2",
+    "dota-hero-calculator-library": "^0.1.1",
     "git-rev-sync": "^1.8.0",
     "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.1",
     "gulp-preprocess": "^2.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.4",
@@ -34,13 +37,12 @@
     "jquery-ui": "^1.12.0",
     "knockout": "^3.4.0",
     "knockout-mapping": "^2.6.0",
+    "latest": "^0.2.0",
     "minifyify": "^7.3.3",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
-  "dependencies": {
-    "dota-hero-calculator-library": "^1.0.4"
-  },
+  "dependencies": {},
   "browserify": {
     "transform": [
       "browserify-shim"

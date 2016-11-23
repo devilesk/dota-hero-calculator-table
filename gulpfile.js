@@ -10,6 +10,18 @@ var rename = require('gulp-rename');
 var browserify = require('browserify');
 var gulpSequence = require('gulp-sequence');
 var del = require('del');
+var concat = require('gulp-concat');
+var minifyCSS = require('gulp-clean-css');
+
+gulp.task('css', function () {
+    return gulp.src([
+          'www/css/*.css'
+        ])
+        .pipe(concat('app.css'))
+        .pipe(minifyCSS())
+        .pipe(rename('app.min.' + git.short() + '.css'))
+        .pipe(gulp.dest('dist/css'))
+});
 
 gulp.task('copy-navbar', function () {
     return gulp.src('/srv/www/dev.devilesk.com/dota2/.navbar.html')
@@ -68,4 +80,20 @@ gulp.task('clean', function () {
     ], {force: true});
 });
 
-gulp.task('staging', gulpSequence('bundle-prod', ['html']));
+gulp.task('clean-deploy', function () {
+    return del([
+        '/srv/www/devilesk.com/dota2/apps/hero-table/**/*'
+    ], {force: true});
+});
+
+gulp.task('deploy', function () {
+    return gulp.src([
+            'dist/**/*'
+        ])
+        .pipe(chmod(755))
+        .pipe(gulp.dest('/srv/www/devilesk.com/dota2/apps/hero-table'));
+});
+
+gulp.task('staging', gulpSequence('bundle-prod', ['css', 'html']));
+
+gulp.task('full-deploy', gulpSequence('staging', 'clean-deploy', 'deploy'));
