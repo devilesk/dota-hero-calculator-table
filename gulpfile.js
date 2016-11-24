@@ -90,8 +90,7 @@ gulp.task('deploy', function () {
     return gulp.src([
             'dist/**/*'
         ])
-        .pipe(chmod(755))
-        .pipe(gulp.dest('/srv/www/devilesk.com/dota2/apps/hero-table'));
+        .pipe(gulp.dest('/srv/www/devilesk.com/dota2/heroes/hero-stat-table'));
 });
 
 gulp.task('staging', gulpSequence('bundle-prod', ['css', 'html']));
