@@ -12,6 +12,7 @@ var gulpSequence = require('gulp-sequence');
 var del = require('del');
 var concat = require('gulp-concat');
 var minifyCSS = require('gulp-clean-css');
+var imagemin = require('gulp-imagemin');
 
 gulp.task('css', function () {
     return gulp.src([
@@ -38,6 +39,12 @@ gulp.task('html', ['copy-navbar'], function () {
         })) //To set environment variables in-line 
         .pipe(replace('bootstrap.css', 'bootstrap.min.css'))
         .pipe(gulp.dest('dist/'))
+});
+
+gulp.task('image', function () {
+    return gulp.src('www/img/*')
+        .pipe(imagemin())
+        .pipe(gulp.dest('dist/img'))
 });
 
 gulp.task('bundle-prod', function () {
@@ -93,6 +100,6 @@ gulp.task('deploy', function () {
         .pipe(gulp.dest('/srv/www/devilesk.com/dota2/heroes/hero-stat-table'));
 });
 
-gulp.task('staging', gulpSequence('bundle-prod', ['css', 'html']));
+gulp.task('staging', gulpSequence('bundle-prod', ['css', 'html', 'image']));
 
 gulp.task('full-deploy', gulpSequence('staging', 'clean-deploy', 'deploy'));
