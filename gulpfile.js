@@ -82,7 +82,7 @@ gulp.task('clean', function () {
 
 gulp.task('clean-deploy', function () {
     return del([
-        '/srv/www/devilesk.com/dota2/apps/hero-table/**/*'
+        '/srv/www/devilesk.com/dota2/heroes/hero-stat-table/**/*'
     ], {force: true});
 });
 
