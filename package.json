@@ -22,7 +22,7 @@
     "browserify-replace": "^0.9.0",
     "browserify-shim": "^3.8.12",
     "del": "^2.2.2",
-    "dota-hero-calculator-library": "^0.3.0",
+    "dota-hero-calculator-library": "^0.5.1",
     "git-rev-sync": "^1.8.0",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.13",
