@@ -146,7 +146,7 @@ HeroCalcData.init("/media/js/herodata.json","/media/js/itemdata.json","/media/js
         });
         this.heroes = ko.observableArray([]);
         for (var h in heroData) {
-            var hero = new HeroModel(h.replace('npc_dota_hero_', ''));
+            var hero = new HeroModel(heroData, itemData, h.replace('npc_dota_hero_', ''));
             hero.rowVisible = ko.observable(true);
             this.heroes.push(hero);
         }

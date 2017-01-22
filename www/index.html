@@ -317,8 +317,24 @@
     </div>
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.0/knockout-min.js"></script>
+<script>
+window.HeroCalcData = {};
+$.when(
+    $.getJSON("/media/js/herodata.json", function (data) {
+        HeroCalcData.heroData = data;
+    }),
+    $.getJSON("/media/js/itemdata.json", function (data) {
+        HeroCalcData.itemData = data;
+    }),
+    $.getJSON("/media/js/unitdata.json", function (data) {
+        HeroCalcData.unitData = data;
+    })
+).done(function () {
+    console.log('HeroCalcData', HeroCalcData);
+});
+</script>
     <!-- @if NODE_ENV='development' -->
-    <script src="js/bundle.js"></script>
+    <script defer src="js/bundle.js"></script>
     <!-- @endif -->
     <!-- @if NODE_ENV='production' !>
     <script src="js/bundle.<!-- @echo COMMIT_HASH !>.js"></script>
