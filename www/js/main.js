@@ -271,32 +271,6 @@ HeroCalcData.init("/media/js/herodata.json","/media/js/itemdata.json","/media/js
             }).length;           
         });
         
-        self.bonusAttributeLevel = ko.computed(function () {
-            var hero = self.heroes()[0];
-            var attributeBonus = hero.ability().getAbility('attribute_bonus');
-            return attributeBonus.level() + '/' + Math.min(Math.floor((self.selectedHeroLevel()-1)/2 + 1), 10);
-        });
-        
-        self.levelUpAttributeBonus = function () {
-            self.heroes().forEach(function (hero) {
-                var attributeBonus = hero.ability().getAbility('attribute_bonus');
-                if (attributeBonus) {
-                    var attributeBonusIndex = hero.ability().abilities.indexOf(attributeBonus);
-                    hero.ability().levelUpAbility(ko.observable(attributeBonusIndex), attributeBonus, null, hero);
-                }
-            });
-        }
-        
-        self.levelDownAttributeBonus = function () {
-            self.heroes().forEach(function (hero) {
-                var attributeBonus = hero.ability().getAbility('attribute_bonus');
-                if (attributeBonus) {
-                    var attributeBonusIndex = hero.ability().abilities.indexOf(attributeBonus);
-                    hero.ability().levelDownAbility(ko.observable(attributeBonusIndex), attributeBonus, null, hero);
-                }
-            });
-        }
-        
         this.inventory = new BasicInventoryViewModel();
         this.inventory.removeItem = (function (fn) {
             return function (item) {
