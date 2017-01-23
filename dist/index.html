@@ -2,12 +2,12 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Dota 2 Hero Stat Table</title>
+    <title>Dota 2 Hero Data Table</title>
     <meta name="description" content="Dota 2 Hero Stat Table. Sortable and filterable hero information taken directly from Dota 2 game files.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" href="app-c191780.min.css" type="text/css">
+<link rel="stylesheet" href="app-b155198.min.css" type="text/css">
 </head>
 <body>
     <div class="wrapper">
@@ -197,7 +197,7 @@ $.when(
     $.getJSON("/media/dota-json/herodata.json", function (data) {HeroCalcData.heroData = data;}),
     $.getJSON("/media/dota-json/itemdata.json", function (data) {HeroCalcData.itemData = data;}),
     $.getJSON("/media/dota-json/unitdata.json", function (data) {HeroCalcData.unitData = data;}),
-    $.ajax({dataType: "script", cache: true, url: "bundle-c191780.min.js"})
+    $.ajax({dataType: "script", cache: true, url: "bundle-b155198.min.js"})
 ).done(function () { DotaHeroCalculatorTable(appConfig); });
 </script>
 </body>
