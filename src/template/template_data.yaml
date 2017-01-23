@@ -1,0 +1,7 @@
+---
+extends: base.j2
+title: Dota 2 Hero Stat Table
+description: Dota 2 Hero Stat Table. Sortable and filterable hero information taken directly from Dota 2 game files.
+active_menu: page-hero-stat-table
+header: Hero Stat Table
+---

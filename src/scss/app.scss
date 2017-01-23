@@ -1,3 +1,12 @@
+$imgPath: "img/";
+
+@import 'jquery-ui';
+@import 'hero-calculator.shop';
+@import 'items_50x36_sprite_jpg';
+@import 'heroes_32x18_sprite_jpg';
+@import 'hero-calculator.common';
+@import 'hero-calculator.theme.dark';
+
 .table-striped > tbody > tr:nth-of-type(odd) {
     background-color: #101111;
 }
