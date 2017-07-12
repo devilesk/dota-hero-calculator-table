@@ -10,7 +10,7 @@ module.exports = [
     {
         "id": "displayname",
         "header": "NAME",
-        "title": "Hero Name",
+        "title": "Hero Name (multiple search terms allowed, separated by space. * wildcards allowed, i.e. sv* matches Sven, *don matches Abaddon)",
         "align": "center",
         "display": ko.observable(true),
         "filter": true,

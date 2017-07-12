@@ -1,6 +1,7 @@
 require('./app/jquery-ui.custom');
 var ko = require('./app/herocalc_knockout');
 var HeroCalc = require("dota-hero-calculator-library");
+var lunr = require('lunr');
 
 var App = function (appConfig) {
     
@@ -146,6 +147,7 @@ var App = function (appConfig) {
                 });
                 self.sortTable();
             });
+            
             this.heroes = ko.observableArray([]);
             for (var h in heroData) {
                 var hero = new HeroModel(heroData, itemData, h.replace('npc_dota_hero_', ''));
@@ -255,7 +257,7 @@ var App = function (appConfig) {
                                     }
                                     break;
                                 case 'string':
-                                    return item.toLowerCase().indexOf(self.headers()[i].filterValue().toLowerCase()) != -1;
+                                    return self.headers()[i].id == 'displayname' || item.toLowerCase().indexOf(self.headers()[i].filterValue().toLowerCase()) != -1;
                                     break;
                                 case 'select':
                                     return item == self.headers()[i].filterValue();
@@ -265,6 +267,29 @@ var App = function (appConfig) {
                         })
                     );
                 });
+                
+                var displaynameFilterValue = self.headers().filter(function (header) {
+                    return header.id == 'displayname';
+                })[0].filterValue();
+                
+                if (displaynameFilterValue) {
+                    var heroIdx = lunr(function () {
+                        this.field('displayname');
+                        this.ref('HeroID');
+                        
+                        self.heroes().filter(function (hero) {
+                            return hero.rowVisible();
+                        }).forEach(function (hero) {
+                            this.add(hero.heroData());
+                        }, this);
+                    });
+                    
+                    var matchingHeroIds = heroIdx.search(displaynameFilterValue).map(function (o) { return o.ref });
+                    self.heroes().forEach(function(hero) {
+                        hero.rowVisible(hero.rowVisible() && matchingHeroIds.indexOf(hero.heroData().HeroID.toString()) != -1);
+                    });
+                }
+                
             }).extend({ deferred: true });;
             
             self.rowCount = ko.computed(function () {
