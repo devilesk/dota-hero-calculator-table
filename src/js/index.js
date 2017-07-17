@@ -1,19 +1,19 @@
 require('./app/jquery-ui.custom');
 var ko = require('./app/herocalc_knockout');
-var HeroCalc = require("dota-hero-calculator-library");
+var HeroCalc = require("dota-hero-calculator/src/js/herocalc/main");
 var lunr = require('lunr');
 
 var App = function (appConfig) {
     
     HeroCalc.init(HeroCalcData.heroData, HeroCalcData.itemData, HeroCalcData.unitData, function () {
-        var HeroModel = require("dota-hero-calculator-library/src/herocalc/hero/HeroModel");
-        var itemData = require("dota-hero-calculator-library/src/herocalc/data/main").itemData;
-        var heroData = require("dota-hero-calculator-library/src/herocalc/data/main").heroData;
-        var stackableItems = require("dota-hero-calculator-library/src/herocalc/inventory/stackableItems");
-        var levelItems = require("dota-hero-calculator-library/src/herocalc/inventory/levelItems");
-        var itemsWithActive = require("dota-hero-calculator-library/src/herocalc/inventory/itemsWithActive");
-        var BasicInventoryViewModel = require("dota-hero-calculator-library/src/herocalc/inventory/BasicInventoryViewModel");
-        var getItemTooltipData = require("dota-hero-calculator-library/src/herocalc/herocalc_tooltips_item");
+        var HeroModel = require("dota-hero-calculator/src/js/herocalc/hero/HeroModel");
+        var itemData = require("dota-hero-calculator/src/js/herocalc/data/main").itemData;
+        var heroData = require("dota-hero-calculator/src/js/herocalc/data/main").heroData;
+        var stackableItems = require("dota-hero-calculator/src/js/herocalc/inventory/stackableItems");
+        var levelItems = require("dota-hero-calculator/src/js/herocalc/inventory/levelItems");
+        var itemsWithActive = require("dota-hero-calculator/src/js/herocalc/inventory/itemsWithActive");
+        var BasicInventoryViewModel = require("dota-hero-calculator/src/js/herocalc/inventory/BasicInventoryViewModel");
+        var getItemTooltipData = require("dota-hero-calculator/src/js/herocalc/herocalc_tooltips_item");
 
         ko.components.register('shop', require('./components/shop'));
 

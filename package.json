@@ -61,7 +61,7 @@
     "watchify": "^3.8.0"
   },
   "dependencies": {
-    "dota-hero-calculator-library": "^0.24.1",
+    "dota-hero-calculator": "^1.2.0",
     "jquery": "^3.1.0",
     "jquery-ui": "^1.12.0",
     "knockout": "^3.4.0",
