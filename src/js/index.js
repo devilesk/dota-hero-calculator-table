@@ -2,6 +2,7 @@ require('./app/jquery-ui.custom');
 var ko = require('./app/herocalc_knockout');
 var HeroCalc = require("dota-hero-calculator/src/js/herocalc/main");
 var lunr = require('lunr');
+var rollbar = require('./rollbar');
 
 var App = function (appConfig) {
     
