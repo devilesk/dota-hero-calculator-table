@@ -284,6 +284,17 @@ module.exports = [
         "filterComparison": ko.observable()
     },
     {
+        "id": "totalStatusResistance",
+        "header": "%SR",
+        "title": "Status Resistance",
+        "align": "right",
+        "display": ko.observable(true),
+        "filter": true,
+        "filterType": "numeric",
+        "filterValue": ko.observable(),
+        "filterComparison": ko.observable()
+    },
+    {
         "id": "totalMagicResistance",
         "header": "%MR",
         "title": "Magic Resistance",
