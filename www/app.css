@@ -217,565 +217,565 @@
   width: 50px;
   height: 36px; }
 
-.items-sprite-aegis.items-sprite-50x36, .items-sprite-aether_lens.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -432px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-aether_lens.items-sprite-50x36 {
-  background-position: 0 -36px; }
-
-.items-sprite-ancient_janggo.items-sprite-50x36, .items-sprite-arcane_boots.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-arcane_boots.items-sprite-50x36 {
-  background-position: -100px 0; }
-
-.items-sprite-arcane_boots2.items-sprite-50x36, .items-sprite-armlet.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -100px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-armlet.items-sprite-50x36 {
-  background-position: 0 -72px; }
-
-.items-sprite-armlet_active.items-sprite-50x36, .items-sprite-assault.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -72px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-assault.items-sprite-50x36 {
-  background-position: -100px -72px; }
-
-.items-sprite-banana.items-sprite-50x36, .items-sprite-band_of_elvenskin.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: 0 -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-band_of_elvenskin.items-sprite-50x36 {
-  background-position: -50px -108px; }
-
-.items-sprite-basher.items-sprite-50x36, .items-sprite-belt_of_strength.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -100px -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-belt_of_strength.items-sprite-50x36 {
-  background-position: -150px 0; }
-
-.items-sprite-bfury.items-sprite-50x36, .items-sprite-black_king_bar.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-black_king_bar.items-sprite-50x36 {
-  background-position: -150px -72px; }
-
-.items-sprite-blade_mail.items-sprite-50x36, .items-sprite-blade_mail_axe_pw.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-blade_mail_axe_pw.items-sprite-50x36 {
-  background-position: 0 -144px; }
-
-.items-sprite-blade_of_alacrity.items-sprite-50x36, .items-sprite-blades_of_attack.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -144px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-blades_of_attack.items-sprite-50x36 {
-  background-position: -100px -144px; }
-
-.items-sprite-blight_stone.items-sprite-50x36, .items-sprite-blink.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -144px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-blink.items-sprite-50x36 {
-  background-position: -200px 0; }
-
-.items-sprite-bloodstone.items-sprite-50x36, .items-sprite-bloodthorn.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -200px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-bloodthorn.items-sprite-50x36 {
-  background-position: -200px -72px; }
-
-.items-sprite-boots.items-sprite-50x36, .items-sprite-boots_of_elves.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -200px -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-boots_of_elves.items-sprite-50x36 {
-  background-position: -200px -144px; }
-
-.items-sprite-bottle.items-sprite-50x36, .items-sprite-bottle_arcane.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: 0 -180px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-bottle_arcane.items-sprite-50x36 {
-  background-position: -50px -180px; }
-
-.items-sprite-bottle_bounty.items-sprite-50x36, .items-sprite-bottle_doubledamage.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -100px -180px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-bottle_doubledamage.items-sprite-50x36 {
-  background-position: -150px -180px; }
-
-.items-sprite-bottle_empty.items-sprite-50x36, .items-sprite-bottle_haste.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -200px -180px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-bottle_haste.items-sprite-50x36 {
-  background-position: -250px 0; }
-
-.items-sprite-bottle_illusion.items-sprite-50x36, .items-sprite-bottle_invisibility.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-bottle_invisibility.items-sprite-50x36 {
-  background-position: -250px -72px; }
-
-.items-sprite-bottle_medium.items-sprite-50x36, .items-sprite-bottle_regeneration.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-bottle_regeneration.items-sprite-50x36 {
-  background-position: -250px -144px; }
-
-.items-sprite-bottle_small.items-sprite-50x36, .items-sprite-bracer.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -180px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-bracer.items-sprite-50x36 {
-  background-position: 0 -216px; }
-
-.items-sprite-branches.items-sprite-50x36, .items-sprite-broadsword.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -216px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-broadsword.items-sprite-50x36 {
-  background-position: -100px -216px; }
-
-.items-sprite-buckler.items-sprite-50x36, .items-sprite-butterfly.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -216px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-butterfly.items-sprite-50x36 {
-  background-position: -200px -216px; }
-
-.items-sprite-chainmail.items-sprite-50x36, .items-sprite-cheese.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -216px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-cheese.items-sprite-50x36 {
-  background-position: 0 -252px; }
-
-.items-sprite-circlet.items-sprite-50x36, .items-sprite-clarity.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -252px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-clarity.items-sprite-50x36 {
-  background-position: -100px -252px; }
-
-.items-sprite-claymore.items-sprite-50x36, .items-sprite-cloak.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -252px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-cloak.items-sprite-50x36 {
-  background-position: -200px -252px; }
-
-.items-sprite-courier.items-sprite-50x36, .items-sprite-courier_dire.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -252px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-courier_dire.items-sprite-50x36 {
-  background-position: -300px 0; }
-
-.items-sprite-courier_dire_flying.items-sprite-50x36, .items-sprite-courier_radiant.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -300px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-courier_radiant.items-sprite-50x36 {
-  background-position: -300px -72px; }
-
-.items-sprite-courier_radiant_flying.items-sprite-50x36, .items-sprite-crimson_guard.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -300px -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-crimson_guard.items-sprite-50x36 {
-  background-position: -300px -144px; }
-
-.items-sprite-crimson_robe.items-sprite-50x36, .items-sprite-cyclone.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -300px -180px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-cyclone.items-sprite-50x36 {
-  background-position: -300px -216px; }
-
-.items-sprite-cyclone_2.items-sprite-50x36, .items-sprite-dagon.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -300px -252px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-dagon.items-sprite-50x36 {
-  background-position: 0 -288px; }
-
-.items-sprite-dagon_2.items-sprite-50x36, .items-sprite-dagon_3.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -288px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-dagon_3.items-sprite-50x36 {
-  background-position: -100px -288px; }
-
-.items-sprite-dagon_4.items-sprite-50x36, .items-sprite-dagon_5.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -288px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-dagon_5.items-sprite-50x36 {
-  background-position: -200px -288px; }
-
-.items-sprite-default.items-sprite-50x36, .items-sprite-demon_edge.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -288px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-demon_edge.items-sprite-50x36 {
-  background-position: -300px -288px; }
-
-.items-sprite-desolator.items-sprite-50x36, .items-sprite-diffusal_blade.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -350px 0;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-diffusal_blade.items-sprite-50x36 {
-  background-position: -350px -36px; }
-
-.items-sprite-diffusal_blade_2.items-sprite-50x36, .items-sprite-dragon_lance.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -350px -72px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-dragon_lance.items-sprite-50x36 {
-  background-position: -350px -108px; }
-
-.items-sprite-dust.items-sprite-50x36, .items-sprite-eagle.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -350px -144px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-eagle.items-sprite-50x36 {
-  background-position: -350px -180px; }
-
-.items-sprite-echo_sabre.items-sprite-50x36, .items-sprite-emptyitembg.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -350px -216px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-emptyitembg.items-sprite-50x36 {
-  background-position: -350px -252px; }
-
-.items-sprite-enchanted_mango.items-sprite-50x36, .items-sprite-energy_booster.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -350px -288px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-energy_booster.items-sprite-50x36 {
-  background-position: 0 -324px; }
-
-.items-sprite-ethereal_blade.items-sprite-50x36, .items-sprite-faerie_fire.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -324px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-faerie_fire.items-sprite-50x36 {
-  background-position: -100px -324px; }
-
-.items-sprite-firecrackers.items-sprite-50x36, .items-sprite-firework_mine.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -324px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-firework_mine.items-sprite-50x36 {
-  background-position: -200px -324px; }
-
-.items-sprite-flask.items-sprite-50x36, .items-sprite-flask2.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -324px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-flask2.items-sprite-50x36 {
-  background-position: -300px -324px; }
-
-.items-sprite-flying_courier.items-sprite-50x36, .items-sprite-force_staff.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -350px -324px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-force_staff.items-sprite-50x36 {
-  background-position: 0 -360px; }
-
-.items-sprite-gauntlets.items-sprite-50x36, .items-sprite-gem.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -50px -360px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-gem.items-sprite-50x36 {
-  background-position: -100px -360px; }
-
-.items-sprite-gem_of_true_sight.items-sprite-50x36, .items-sprite-ghost.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -150px -360px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-ghost.items-sprite-50x36 {
-  background-position: -200px -360px; }
-
-.items-sprite-ghost_scepter.items-sprite-50x36, .items-sprite-glimmer_cape.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -250px -360px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-glimmer_cape.items-sprite-50x36 {
-  background-position: -300px -360px; }
-
-.items-sprite-gloves.items-sprite-50x36, .items-sprite-gloves_of_haste.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -350px -360px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-gloves_of_haste.items-sprite-50x36 {
-  background-position: -400px 0; }
-
-.items-sprite-greater_clarity.items-sprite-50x36, .items-sprite-greater_crit.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -400px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-greater_crit.items-sprite-50x36 {
-  background-position: -400px -72px; }
-
-.items-sprite-greater_salve.items-sprite-50x36, .items-sprite-greevil_whistle.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -400px -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-greevil_whistle.items-sprite-50x36 {
-  background-position: -400px -144px; }
-
-.items-sprite-greevil_whistle_toggle.items-sprite-50x36, .items-sprite-guardian_greaves.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -400px -180px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-guardian_greaves.items-sprite-50x36 {
-  background-position: -400px -216px; }
-
-.items-sprite-halloween_candy_corn.items-sprite-50x36, .items-sprite-halloween_rapier.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -400px -252px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-halloween_rapier.items-sprite-50x36 {
-  background-position: -400px -288px; }
-
-.items-sprite-hand_of_midas.items-sprite-50x36, .items-sprite-headdress.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -400px -324px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-headdress.items-sprite-50x36 {
-  background-position: -400px -360px; }
-
-.items-sprite-heart.items-sprite-50x36, .items-sprite-heavens_halberd.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: 0 -396px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-heavens_halberd.items-sprite-50x36 {
-  background-position: -50px -396px; }
-
-.items-sprite-helm_of_iron_will.items-sprite-50x36, .items-sprite-helm_of_the_dominator.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -100px -396px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-helm_of_the_dominator.items-sprite-50x36 {
-  background-position: -150px -396px; }
-
-.items-sprite-hood_of_defiance.items-sprite-50x36, .items-sprite-hurricane_pike.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -200px -396px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-hurricane_pike.items-sprite-50x36 {
-  background-position: -250px -396px; }
-
-.items-sprite-hyperstone.items-sprite-50x36, .items-sprite-infused_raindrop.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -300px -396px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-infused_raindrop.items-sprite-50x36 {
-  background-position: -350px -396px; }
-
-.items-sprite-invis_sword.items-sprite-50x36, .items-sprite-iron_talon.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -400px -396px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-iron_talon.items-sprite-50x36 {
-  background-position: -450px 0; }
-
-.items-sprite-javelin.items-sprite-50x36, .items-sprite-lesser_crit.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -450px -36px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-lesser_crit.items-sprite-50x36 {
-  background-position: -450px -72px; }
-
-.items-sprite-lifesteal.items-sprite-50x36, .items-sprite-lotus_orb.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -450px -108px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-lotus_orb.items-sprite-50x36 {
-  background-position: -450px -144px; }
-
-.items-sprite-maelstrom.items-sprite-50x36, .items-sprite-magic_stick.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -450px -180px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-magic_stick.items-sprite-50x36 {
-  background-position: -450px -216px; }
-
-.items-sprite-magic_wand.items-sprite-50x36, .items-sprite-manta.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -450px -252px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-manta.items-sprite-50x36 {
-  background-position: -450px -288px; }
-
-.items-sprite-mantle.items-sprite-50x36, .items-sprite-mask_of_madness.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -450px -324px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-mask_of_madness.items-sprite-50x36 {
-  background-position: -450px -360px; }
-
-.items-sprite-medallion_of_courage.items-sprite-50x36, .items-sprite-mekansm.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -450px -396px;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-mekansm.items-sprite-50x36 {
-  background-position: 0 -432px; }
-
-.items-sprite-mithril_hammer.items-sprite-50x36, .items-sprite-mjollnir.items-sprite-50x36 {
-  background-image: url(img/items_50x36_sprite.jpg);
-  background-position: 0 0;
-  width: 50px;
-  height: 36px; }
-
-.items-sprite-mjollnir.items-sprite-50x36 {
-  background-position: -100px -432px; }
-
-.items-sprite-mjollnir_arc-000.items-sprite-50x36, .items-sprite-mjollnir_arc-001.items-sprite-50x36 {
+.items-sprite-aegis.items-sprite-50x36, .items-sprite-aeon_disk.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -150px -432px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-mjollnir_arc-001.items-sprite-50x36 {
+.items-sprite-aeon_disk.items-sprite-50x36 {
+  background-position: 0 -36px; }
+
+.items-sprite-aether_lens.items-sprite-50x36, .items-sprite-ancient_janggo.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-ancient_janggo.items-sprite-50x36 {
+  background-position: -100px 0; }
+
+.items-sprite-arcane_boots.items-sprite-50x36, .items-sprite-arcane_boots2.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -100px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-arcane_boots2.items-sprite-50x36 {
+  background-position: 0 -72px; }
+
+.items-sprite-armlet.items-sprite-50x36, .items-sprite-armlet_active.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -72px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-armlet_active.items-sprite-50x36 {
+  background-position: -100px -72px; }
+
+.items-sprite-assault.items-sprite-50x36, .items-sprite-banana.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: 0 -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-banana.items-sprite-50x36 {
+  background-position: -50px -108px; }
+
+.items-sprite-band_of_elvenskin.items-sprite-50x36, .items-sprite-basher.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -100px -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-basher.items-sprite-50x36 {
+  background-position: -150px 0; }
+
+.items-sprite-belt_of_strength.items-sprite-50x36, .items-sprite-bfury.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -150px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bfury.items-sprite-50x36 {
+  background-position: -150px -72px; }
+
+.items-sprite-black_king_bar.items-sprite-50x36, .items-sprite-blade_mail.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -150px -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-blade_mail.items-sprite-50x36 {
+  background-position: -50px -144px; }
+
+.items-sprite-blade_mail_axe_pw.items-sprite-50x36, .items-sprite-blade_of_alacrity.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -100px -144px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-blade_of_alacrity.items-sprite-50x36 {
+  background-position: -150px -144px; }
+
+.items-sprite-blades_of_attack.items-sprite-50x36, .items-sprite-blight_stone.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: 0 -144px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-blight_stone.items-sprite-50x36 {
+  background-position: -200px 0; }
+
+.items-sprite-blink.items-sprite-50x36, .items-sprite-bloodstone.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -200px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bloodstone.items-sprite-50x36 {
+  background-position: -200px -72px; }
+
+.items-sprite-bloodthorn.items-sprite-50x36, .items-sprite-boots.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -200px -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-boots.items-sprite-50x36 {
+  background-position: -200px -144px; }
+
+.items-sprite-boots_of_elves.items-sprite-50x36, .items-sprite-bottle.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: 0 -180px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bottle.items-sprite-50x36 {
+  background-position: -50px -180px; }
+
+.items-sprite-bottle_arcane.items-sprite-50x36, .items-sprite-bottle_bounty.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -100px -180px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bottle_bounty.items-sprite-50x36 {
+  background-position: -150px -180px; }
+
+.items-sprite-bottle_doubledamage.items-sprite-50x36, .items-sprite-bottle_empty.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -200px -180px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bottle_empty.items-sprite-50x36 {
+  background-position: -250px 0; }
+
+.items-sprite-bottle_haste.items-sprite-50x36, .items-sprite-bottle_illusion.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bottle_illusion.items-sprite-50x36 {
+  background-position: -250px -72px; }
+
+.items-sprite-bottle_invisibility.items-sprite-50x36, .items-sprite-bottle_medium.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bottle_medium.items-sprite-50x36 {
+  background-position: -250px -144px; }
+
+.items-sprite-bottle_regeneration.items-sprite-50x36, .items-sprite-bottle_small.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -180px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-bottle_small.items-sprite-50x36 {
+  background-position: 0 -216px; }
+
+.items-sprite-bracer.items-sprite-50x36, .items-sprite-branches.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -216px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-branches.items-sprite-50x36 {
+  background-position: -100px -216px; }
+
+.items-sprite-broadsword.items-sprite-50x36, .items-sprite-buckler.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -150px -216px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-buckler.items-sprite-50x36 {
+  background-position: -200px -216px; }
+
+.items-sprite-butterfly.items-sprite-50x36, .items-sprite-chainmail.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -216px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-chainmail.items-sprite-50x36 {
+  background-position: 0 -252px; }
+
+.items-sprite-cheese.items-sprite-50x36, .items-sprite-circlet.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -252px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-circlet.items-sprite-50x36 {
+  background-position: -100px -252px; }
+
+.items-sprite-clarity.items-sprite-50x36, .items-sprite-claymore.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -150px -252px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-claymore.items-sprite-50x36 {
+  background-position: -200px -252px; }
+
+.items-sprite-cloak.items-sprite-50x36, .items-sprite-courier.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -252px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-courier.items-sprite-50x36 {
+  background-position: -300px 0; }
+
+.items-sprite-courier_dire.items-sprite-50x36, .items-sprite-courier_dire_flying.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -300px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-courier_dire_flying.items-sprite-50x36 {
+  background-position: -300px -72px; }
+
+.items-sprite-courier_radiant.items-sprite-50x36, .items-sprite-courier_radiant_flying.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -300px -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-courier_radiant_flying.items-sprite-50x36 {
+  background-position: -300px -144px; }
+
+.items-sprite-crimson_guard.items-sprite-50x36, .items-sprite-crimson_robe.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -300px -180px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-crimson_robe.items-sprite-50x36 {
+  background-position: -300px -216px; }
+
+.items-sprite-cyclone.items-sprite-50x36, .items-sprite-cyclone_2.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -300px -252px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-cyclone_2.items-sprite-50x36 {
+  background-position: 0 -288px; }
+
+.items-sprite-dagon.items-sprite-50x36, .items-sprite-dagon_2.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -288px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-dagon_2.items-sprite-50x36 {
+  background-position: -100px -288px; }
+
+.items-sprite-dagon_3.items-sprite-50x36, .items-sprite-dagon_4.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -150px -288px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-dagon_4.items-sprite-50x36 {
+  background-position: -200px -288px; }
+
+.items-sprite-dagon_5.items-sprite-50x36, .items-sprite-default.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -288px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-default.items-sprite-50x36 {
+  background-position: -300px -288px; }
+
+.items-sprite-demon_edge.items-sprite-50x36, .items-sprite-desolator.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -350px 0;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-desolator.items-sprite-50x36 {
+  background-position: -350px -36px; }
+
+.items-sprite-diffusal_blade.items-sprite-50x36, .items-sprite-diffusal_blade_2.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -350px -72px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-diffusal_blade_2.items-sprite-50x36 {
+  background-position: -350px -108px; }
+
+.items-sprite-dragon_lance.items-sprite-50x36, .items-sprite-dust.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -350px -144px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-dust.items-sprite-50x36 {
+  background-position: -350px -180px; }
+
+.items-sprite-eagle.items-sprite-50x36, .items-sprite-echo_sabre.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -350px -216px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-echo_sabre.items-sprite-50x36 {
+  background-position: -350px -252px; }
+
+.items-sprite-emptyitembg.items-sprite-50x36, .items-sprite-enchanted_mango.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -350px -288px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-enchanted_mango.items-sprite-50x36 {
+  background-position: 0 -324px; }
+
+.items-sprite-energy_booster.items-sprite-50x36, .items-sprite-ethereal_blade.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -324px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-ethereal_blade.items-sprite-50x36 {
+  background-position: -100px -324px; }
+
+.items-sprite-faerie_fire.items-sprite-50x36, .items-sprite-firecrackers.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -150px -324px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-firecrackers.items-sprite-50x36 {
+  background-position: -200px -324px; }
+
+.items-sprite-firework_mine.items-sprite-50x36, .items-sprite-flask.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -324px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-flask.items-sprite-50x36 {
+  background-position: -300px -324px; }
+
+.items-sprite-flask2.items-sprite-50x36, .items-sprite-flying_courier.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -350px -324px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-flying_courier.items-sprite-50x36 {
+  background-position: 0 -360px; }
+
+.items-sprite-force_staff.items-sprite-50x36, .items-sprite-gauntlets.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -360px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-gauntlets.items-sprite-50x36 {
+  background-position: -100px -360px; }
+
+.items-sprite-gem.items-sprite-50x36, .items-sprite-gem_of_true_sight.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -150px -360px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-gem_of_true_sight.items-sprite-50x36 {
+  background-position: -200px -360px; }
+
+.items-sprite-ghost.items-sprite-50x36, .items-sprite-ghost_scepter.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -250px -360px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-ghost_scepter.items-sprite-50x36 {
+  background-position: -300px -360px; }
+
+.items-sprite-glimmer_cape.items-sprite-50x36, .items-sprite-gloves.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -350px -360px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-gloves.items-sprite-50x36 {
+  background-position: -400px 0; }
+
+.items-sprite-gloves_of_haste.items-sprite-50x36, .items-sprite-greater_clarity.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -400px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-greater_clarity.items-sprite-50x36 {
+  background-position: -400px -72px; }
+
+.items-sprite-greater_crit.items-sprite-50x36, .items-sprite-greater_salve.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -400px -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-greater_salve.items-sprite-50x36 {
+  background-position: -400px -144px; }
+
+.items-sprite-greevil_whistle.items-sprite-50x36, .items-sprite-greevil_whistle_toggle.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -400px -180px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-greevil_whistle_toggle.items-sprite-50x36 {
+  background-position: -400px -216px; }
+
+.items-sprite-guardian_greaves.items-sprite-50x36, .items-sprite-halloween_candy_corn.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -400px -252px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-halloween_candy_corn.items-sprite-50x36 {
+  background-position: -400px -288px; }
+
+.items-sprite-halloween_rapier.items-sprite-50x36, .items-sprite-hand_of_midas.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -400px -324px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-hand_of_midas.items-sprite-50x36 {
+  background-position: -400px -360px; }
+
+.items-sprite-headdress.items-sprite-50x36, .items-sprite-heart.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: 0 -396px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-heart.items-sprite-50x36 {
+  background-position: -50px -396px; }
+
+.items-sprite-heavens_halberd.items-sprite-50x36, .items-sprite-helm_of_iron_will.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -100px -396px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-helm_of_iron_will.items-sprite-50x36 {
+  background-position: -150px -396px; }
+
+.items-sprite-helm_of_the_dominator.items-sprite-50x36, .items-sprite-hood_of_defiance.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -200px -396px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-hood_of_defiance.items-sprite-50x36 {
+  background-position: -250px -396px; }
+
+.items-sprite-hurricane_pike.items-sprite-50x36, .items-sprite-hyperstone.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -300px -396px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-hyperstone.items-sprite-50x36 {
+  background-position: -350px -396px; }
+
+.items-sprite-infused_raindrop.items-sprite-50x36, .items-sprite-invis_sword.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -400px -396px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-invis_sword.items-sprite-50x36 {
+  background-position: -450px 0; }
+
+.items-sprite-iron_talon.items-sprite-50x36, .items-sprite-javelin.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -450px -36px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-javelin.items-sprite-50x36 {
+  background-position: -450px -72px; }
+
+.items-sprite-kaya.items-sprite-50x36, .items-sprite-lesser_crit.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -450px -108px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-lesser_crit.items-sprite-50x36 {
+  background-position: -450px -144px; }
+
+.items-sprite-lifesteal.items-sprite-50x36, .items-sprite-lotus_orb.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -450px -180px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-lotus_orb.items-sprite-50x36 {
+  background-position: -450px -216px; }
+
+.items-sprite-maelstrom.items-sprite-50x36, .items-sprite-magic_stick.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -450px -252px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-magic_stick.items-sprite-50x36 {
+  background-position: -450px -288px; }
+
+.items-sprite-magic_wand.items-sprite-50x36, .items-sprite-manta.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -450px -324px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-manta.items-sprite-50x36 {
+  background-position: -450px -360px; }
+
+.items-sprite-mantle.items-sprite-50x36, .items-sprite-mask_of_madness.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -450px -396px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-mask_of_madness.items-sprite-50x36 {
+  background-position: 0 -432px; }
+
+.items-sprite-medallion_of_courage.items-sprite-50x36, .items-sprite-mekansm.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -50px -432px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-mekansm.items-sprite-50x36 {
+  background-position: -100px -432px; }
+
+.items-sprite-meteor_hammer.items-sprite-50x36, .items-sprite-mithril_hammer.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: 0 0;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-mithril_hammer.items-sprite-50x36 {
   background-position: -200px -432px; }
 
-.items-sprite-mjollnir_arc-002.items-sprite-50x36, .items-sprite-monkey_king_bar.items-sprite-50x36 {
+.items-sprite-mjollnir.items-sprite-50x36, .items-sprite-monkey_king_bar.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -250px -432px;
   width: 50px;
@@ -838,473 +838,491 @@
 .items-sprite-nian_flag_trap.items-sprite-50x36 {
   background-position: -500px -288px; }
 
-.items-sprite-null_talisman.items-sprite-50x36, .items-sprite-oblivion_staff.items-sprite-50x36 {
+.items-sprite-null_talisman.items-sprite-50x36, .items-sprite-nullifier.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
-  background-position: -500px -324px;
+  background-position: -500px -360px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-oblivion_staff.items-sprite-50x36 {
-  background-position: -500px -360px; }
+.items-sprite-nullifier.items-sprite-50x36 {
+  background-position: -500px -324px; }
 
-.items-sprite-octarine_core.items-sprite-50x36, .items-sprite-ogre_axe.items-sprite-50x36 {
+.items-sprite-oblivion_staff.items-sprite-50x36, .items-sprite-octarine_core.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -500px -396px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-ogre_axe.items-sprite-50x36 {
+.items-sprite-octarine_core.items-sprite-50x36 {
   background-position: -500px -432px; }
 
-.items-sprite-orb_of_venom.items-sprite-50x36, .items-sprite-orchid.items-sprite-50x36 {
+.items-sprite-ogre_axe.items-sprite-50x36, .items-sprite-orb_of_venom.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: 0 -468px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-orchid.items-sprite-50x36 {
+.items-sprite-orb_of_venom.items-sprite-50x36 {
   background-position: -50px -468px; }
 
-.items-sprite-pers.items-sprite-50x36, .items-sprite-phase_boots.items-sprite-50x36 {
+.items-sprite-orchid.items-sprite-50x36, .items-sprite-pers.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -100px -468px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-phase_boots.items-sprite-50x36 {
+.items-sprite-pers.items-sprite-50x36 {
   background-position: -150px -468px; }
 
-.items-sprite-pipe.items-sprite-50x36, .items-sprite-place_building.items-sprite-50x36 {
+.items-sprite-phase_boots.items-sprite-50x36, .items-sprite-pipe.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -200px -468px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-place_building.items-sprite-50x36 {
+.items-sprite-pipe.items-sprite-50x36 {
   background-position: -250px -468px; }
 
-.items-sprite-platemail.items-sprite-50x36, .items-sprite-point_booster.items-sprite-50x36 {
+.items-sprite-place_building.items-sprite-50x36, .items-sprite-platemail.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -300px -468px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-point_booster.items-sprite-50x36 {
+.items-sprite-platemail.items-sprite-50x36 {
   background-position: -350px -468px; }
 
-.items-sprite-poor_mans_shield.items-sprite-50x36, .items-sprite-power_treads.items-sprite-50x36 {
+.items-sprite-point_booster.items-sprite-50x36, .items-sprite-poor_mans_shield.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -400px -468px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-power_treads.items-sprite-50x36 {
+.items-sprite-poor_mans_shield.items-sprite-50x36 {
   background-position: -450px -468px; }
 
-.items-sprite-power_treads_agi.items-sprite-50x36, .items-sprite-power_treads_int.items-sprite-50x36 {
+.items-sprite-power_treads.items-sprite-50x36, .items-sprite-power_treads_agi.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -500px -468px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-power_treads_int.items-sprite-50x36 {
+.items-sprite-power_treads_agi.items-sprite-50x36 {
   background-position: 0 -504px; }
 
-.items-sprite-power_treads_str.items-sprite-50x36, .items-sprite-present.items-sprite-50x36 {
+.items-sprite-power_treads_int.items-sprite-50x36, .items-sprite-power_treads_str.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -50px -504px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-present.items-sprite-50x36 {
+.items-sprite-power_treads_str.items-sprite-50x36 {
   background-position: -100px -504px; }
 
-.items-sprite-quarterstaff.items-sprite-50x36, .items-sprite-quelling_blade.items-sprite-50x36 {
+.items-sprite-present.items-sprite-50x36, .items-sprite-quarterstaff.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -150px -504px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-quelling_blade.items-sprite-50x36 {
+.items-sprite-quarterstaff.items-sprite-50x36 {
   background-position: -200px -504px; }
 
-.items-sprite-radiance.items-sprite-50x36, .items-sprite-radiance_inactive.items-sprite-50x36 {
+.items-sprite-quelling_blade.items-sprite-50x36, .items-sprite-radiance.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -250px -504px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-radiance_inactive.items-sprite-50x36 {
+.items-sprite-radiance.items-sprite-50x36 {
   background-position: -300px -504px; }
 
-.items-sprite-rapier.items-sprite-50x36, .items-sprite-reaver.items-sprite-50x36 {
+.items-sprite-radiance_inactive.items-sprite-50x36, .items-sprite-rapier.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -350px -504px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-reaver.items-sprite-50x36 {
+.items-sprite-rapier.items-sprite-50x36 {
   background-position: -400px -504px; }
 
-.items-sprite-recipe.items-sprite-50x36, .items-sprite-recipe_scroll.items-sprite-50x36 {
+.items-sprite-reaver.items-sprite-50x36, .items-sprite-recipe.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -450px -504px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-recipe_scroll.items-sprite-50x36 {
+.items-sprite-recipe.items-sprite-50x36 {
   background-position: -500px -504px; }
 
-.items-sprite-refresher.items-sprite-50x36, .items-sprite-relic.items-sprite-50x36 {
+.items-sprite-recipe_scroll.items-sprite-50x36, .items-sprite-refresher.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px 0;
   width: 50px;
   height: 36px; }
 
-.items-sprite-relic.items-sprite-50x36 {
+.items-sprite-refresher.items-sprite-50x36 {
   background-position: -550px -36px; }
 
-.items-sprite-ring_of_aquila.items-sprite-50x36, .items-sprite-ring_of_aquila_active.items-sprite-50x36 {
+.items-sprite-refresher_shard.items-sprite-50x36, .items-sprite-relic.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -72px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-ring_of_aquila_active.items-sprite-50x36 {
+.items-sprite-relic.items-sprite-50x36 {
   background-position: -550px -108px; }
 
-.items-sprite-ring_of_basilius.items-sprite-50x36, .items-sprite-ring_of_basilius_active.items-sprite-50x36 {
+.items-sprite-ring_of_aquila.items-sprite-50x36, .items-sprite-ring_of_aquila_active.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -144px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-ring_of_basilius_active.items-sprite-50x36 {
+.items-sprite-ring_of_aquila_active.items-sprite-50x36 {
   background-position: -550px -180px; }
 
-.items-sprite-ring_of_health.items-sprite-50x36, .items-sprite-ring_of_protection.items-sprite-50x36 {
+.items-sprite-ring_of_basilius.items-sprite-50x36, .items-sprite-ring_of_basilius_active.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -216px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-ring_of_protection.items-sprite-50x36 {
+.items-sprite-ring_of_basilius_active.items-sprite-50x36 {
   background-position: -550px -252px; }
 
-.items-sprite-ring_of_regen.items-sprite-50x36, .items-sprite-river_painter.items-sprite-50x36 {
+.items-sprite-ring_of_health.items-sprite-50x36, .items-sprite-ring_of_protection.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -288px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-river_painter.items-sprite-50x36 {
+.items-sprite-ring_of_protection.items-sprite-50x36 {
   background-position: -550px -324px; }
 
-.items-sprite-river_painter2.items-sprite-50x36, .items-sprite-river_painter3.items-sprite-50x36 {
+.items-sprite-ring_of_regen.items-sprite-50x36, .items-sprite-river_painter.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -360px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-river_painter3.items-sprite-50x36 {
+.items-sprite-river_painter.items-sprite-50x36 {
   background-position: -550px -396px; }
 
-.items-sprite-river_painter4.items-sprite-50x36, .items-sprite-river_painter5.items-sprite-50x36 {
+.items-sprite-river_painter2.items-sprite-50x36, .items-sprite-river_painter3.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -432px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-river_painter5.items-sprite-50x36 {
+.items-sprite-river_painter3.items-sprite-50x36 {
   background-position: -550px -468px; }
 
-.items-sprite-river_painter6.items-sprite-50x36, .items-sprite-river_painter7.items-sprite-50x36 {
+.items-sprite-river_painter4.items-sprite-50x36, .items-sprite-river_painter5.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -504px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-river_painter7.items-sprite-50x36 {
+.items-sprite-river_painter5.items-sprite-50x36 {
   background-position: 0 -540px; }
 
-.items-sprite-robe.items-sprite-50x36, .items-sprite-rod_of_atos.items-sprite-50x36 {
+.items-sprite-river_painter6.items-sprite-50x36, .items-sprite-river_painter7.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -50px -540px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-rod_of_atos.items-sprite-50x36 {
+.items-sprite-river_painter7.items-sprite-50x36 {
   background-position: -100px -540px; }
 
-.items-sprite-salve.items-sprite-50x36, .items-sprite-sange.items-sprite-50x36 {
+.items-sprite-robe.items-sprite-50x36, .items-sprite-rod_of_atos.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -150px -540px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-sange.items-sprite-50x36 {
+.items-sprite-rod_of_atos.items-sprite-50x36 {
   background-position: -200px -540px; }
 
-.items-sprite-sange_and_yasha.items-sprite-50x36, .items-sprite-satanic.items-sprite-50x36 {
+.items-sprite-salve.items-sprite-50x36, .items-sprite-sange.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -250px -540px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-satanic.items-sprite-50x36 {
+.items-sprite-sange.items-sprite-50x36 {
   background-position: -300px -540px; }
 
-.items-sprite-shadow_amulet.items-sprite-50x36, .items-sprite-sheepstick.items-sprite-50x36 {
+.items-sprite-sange_and_yasha.items-sprite-50x36, .items-sprite-satanic.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -350px -540px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-sheepstick.items-sprite-50x36 {
+.items-sprite-satanic.items-sprite-50x36 {
   background-position: -400px -540px; }
 
-.items-sprite-shivas_guard.items-sprite-50x36, .items-sprite-silver_edge.items-sprite-50x36 {
+.items-sprite-shadow_amulet.items-sprite-50x36, .items-sprite-sheepstick.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -450px -540px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-silver_edge.items-sprite-50x36 {
+.items-sprite-sheepstick.items-sprite-50x36 {
   background-position: -500px -540px; }
 
-.items-sprite-skadi.items-sprite-50x36, .items-sprite-slippers.items-sprite-50x36 {
+.items-sprite-shivas_guard.items-sprite-50x36, .items-sprite-silver_edge.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -540px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-slippers.items-sprite-50x36 {
+.items-sprite-silver_edge.items-sprite-50x36 {
   background-position: -600px 0; }
 
-.items-sprite-slippers_of_halcyon.items-sprite-50x36, .items-sprite-smoke_of_deceit.items-sprite-50x36 {
+.items-sprite-skadi.items-sprite-50x36, .items-sprite-slippers.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -36px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-smoke_of_deceit.items-sprite-50x36 {
+.items-sprite-slippers.items-sprite-50x36 {
   background-position: -600px -72px; }
 
-.items-sprite-sobi_mask.items-sprite-50x36, .items-sprite-solar_crest.items-sprite-50x36 {
+.items-sprite-slippers_of_halcyon.items-sprite-50x36, .items-sprite-smoke_of_deceit.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -108px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-solar_crest.items-sprite-50x36 {
+.items-sprite-smoke_of_deceit.items-sprite-50x36 {
   background-position: -600px -144px; }
 
-.items-sprite-soul_booster.items-sprite-50x36, .items-sprite-soul_ring.items-sprite-50x36 {
+.items-sprite-sobi_mask.items-sprite-50x36, .items-sprite-solar_crest.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -180px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-soul_ring.items-sprite-50x36 {
+.items-sprite-solar_crest.items-sprite-50x36 {
   background-position: -600px -216px; }
 
-.items-sprite-sphere.items-sprite-50x36, .items-sprite-staff_of_wizardry.items-sprite-50x36 {
+.items-sprite-soul_booster.items-sprite-50x36, .items-sprite-soul_ring.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -252px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-staff_of_wizardry.items-sprite-50x36 {
+.items-sprite-soul_ring.items-sprite-50x36 {
   background-position: -600px -288px; }
 
-.items-sprite-stout_shield.items-sprite-50x36, .items-sprite-talisman_of_evasion.items-sprite-50x36 {
+.items-sprite-sphere.items-sprite-50x36, .items-sprite-spirit_vessel.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -324px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-talisman_of_evasion.items-sprite-50x36 {
+.items-sprite-spirit_vessel.items-sprite-50x36 {
   background-position: -600px -360px; }
 
-.items-sprite-tango.items-sprite-50x36, .items-sprite-tango_single.items-sprite-50x36 {
+.items-sprite-staff_of_wizardry.items-sprite-50x36, .items-sprite-stout_shield.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -396px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-tango_single.items-sprite-50x36 {
+.items-sprite-stout_shield.items-sprite-50x36 {
   background-position: -600px -432px; }
 
-.items-sprite-tombstone.items-sprite-50x36, .items-sprite-tome_of_knowledge.items-sprite-50x36 {
+.items-sprite-talisman_of_evasion.items-sprite-50x36, .items-sprite-tango.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -468px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-tome_of_knowledge.items-sprite-50x36 {
+.items-sprite-tango.items-sprite-50x36 {
   background-position: -600px -504px; }
 
-.items-sprite-tpscroll.items-sprite-50x36, .items-sprite-tranquil_boots.items-sprite-50x36 {
+.items-sprite-tango_single.items-sprite-50x36, .items-sprite-tombstone.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -540px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-tranquil_boots.items-sprite-50x36 {
+.items-sprite-tombstone.items-sprite-50x36 {
   background-position: 0 -576px; }
 
-.items-sprite-tranquil_boots_active.items-sprite-50x36, .items-sprite-travel_boots.items-sprite-50x36 {
+.items-sprite-tome_of_knowledge.items-sprite-50x36, .items-sprite-tpscroll.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -50px -576px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-travel_boots.items-sprite-50x36 {
+.items-sprite-tpscroll.items-sprite-50x36 {
   background-position: -100px -576px; }
 
-.items-sprite-travel_boots_2.items-sprite-50x36, .items-sprite-travel_boots_tinker.items-sprite-50x36 {
+.items-sprite-traditional_crackers.items-sprite-50x36, .items-sprite-tranquil_boots.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -150px -576px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-travel_boots_tinker.items-sprite-50x36 {
+.items-sprite-tranquil_boots.items-sprite-50x36 {
   background-position: -200px -576px; }
 
-.items-sprite-travel_slippers.items-sprite-50x36, .items-sprite-ultimate_orb.items-sprite-50x36 {
+.items-sprite-tranquil_boots_active.items-sprite-50x36, .items-sprite-travel_boots.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -250px -576px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-ultimate_orb.items-sprite-50x36 {
+.items-sprite-travel_boots.items-sprite-50x36 {
   background-position: -300px -576px; }
 
-.items-sprite-ultimate_scepter.items-sprite-50x36, .items-sprite-urn_of_shadows.items-sprite-50x36 {
+.items-sprite-travel_boots_2.items-sprite-50x36, .items-sprite-travel_boots_tinker.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -350px -576px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-urn_of_shadows.items-sprite-50x36 {
+.items-sprite-travel_boots_tinker.items-sprite-50x36 {
   background-position: -400px -576px; }
 
-.items-sprite-vanguard.items-sprite-50x36, .items-sprite-veil_of_discord.items-sprite-50x36 {
+.items-sprite-travel_slippers.items-sprite-50x36, .items-sprite-ultimate_orb.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -450px -576px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-veil_of_discord.items-sprite-50x36 {
+.items-sprite-ultimate_orb.items-sprite-50x36 {
   background-position: -500px -576px; }
 
-.items-sprite-vitality_booster.items-sprite-50x36, .items-sprite-vladmir.items-sprite-50x36 {
+.items-sprite-ultimate_scepter.items-sprite-50x36, .items-sprite-urn_of_shadows.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -550px -576px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-vladmir.items-sprite-50x36 {
+.items-sprite-urn_of_shadows.items-sprite-50x36 {
   background-position: -600px -576px; }
 
-.items-sprite-void_stone.items-sprite-50x36, .items-sprite-ward_dispenser.items-sprite-50x36 {
+.items-sprite-vanguard.items-sprite-50x36, .items-sprite-veil_of_discord.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: 0 -612px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-ward_dispenser.items-sprite-50x36 {
+.items-sprite-veil_of_discord.items-sprite-50x36 {
   background-position: -50px -612px; }
 
-.items-sprite-ward_dispenser_sentry.items-sprite-50x36, .items-sprite-ward_observer.items-sprite-50x36 {
+.items-sprite-vitality_booster.items-sprite-50x36, .items-sprite-vladmir.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -100px -612px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-ward_observer.items-sprite-50x36 {
+.items-sprite-vladmir.items-sprite-50x36 {
   background-position: -150px -612px; }
 
-.items-sprite-ward_sentry.items-sprite-50x36, .items-sprite-wind_lace.items-sprite-50x36 {
+.items-sprite-void_stone.items-sprite-50x36, .items-sprite-ward_dispenser.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -200px -612px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-wind_lace.items-sprite-50x36 {
+.items-sprite-ward_dispenser.items-sprite-50x36 {
   background-position: -250px -612px; }
 
-.items-sprite-winter_cake.items-sprite-50x36, .items-sprite-winter_coal.items-sprite-50x36 {
+.items-sprite-ward_dispenser_sentry.items-sprite-50x36, .items-sprite-ward_observer.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -300px -612px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-winter_coal.items-sprite-50x36 {
+.items-sprite-ward_observer.items-sprite-50x36 {
   background-position: -350px -612px; }
 
-.items-sprite-winter_coco.items-sprite-50x36, .items-sprite-winter_cookie.items-sprite-50x36 {
+.items-sprite-ward_sentry.items-sprite-50x36, .items-sprite-wind_lace.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -400px -612px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-winter_cookie.items-sprite-50x36 {
+.items-sprite-wind_lace.items-sprite-50x36 {
   background-position: -450px -612px; }
 
-.items-sprite-winter_greevil_chewy.items-sprite-50x36, .items-sprite-winter_greevil_garbage.items-sprite-50x36 {
+.items-sprite-winter_cake.items-sprite-50x36, .items-sprite-winter_coal.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -500px -612px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-winter_greevil_garbage.items-sprite-50x36 {
+.items-sprite-winter_coal.items-sprite-50x36 {
   background-position: -550px -612px; }
 
-.items-sprite-winter_greevil_treat.items-sprite-50x36, .items-sprite-winter_ham.items-sprite-50x36 {
+.items-sprite-winter_coco.items-sprite-50x36, .items-sprite-winter_cookie.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -600px -612px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-winter_ham.items-sprite-50x36 {
+.items-sprite-winter_cookie.items-sprite-50x36 {
   background-position: -650px 0; }
 
-.items-sprite-winter_kringle.items-sprite-50x36, .items-sprite-winter_mushroom.items-sprite-50x36 {
+.items-sprite-winter_greevil_chewy.items-sprite-50x36, .items-sprite-winter_greevil_garbage.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -650px -36px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-winter_mushroom.items-sprite-50x36 {
+.items-sprite-winter_greevil_garbage.items-sprite-50x36 {
   background-position: -650px -72px; }
 
-.items-sprite-winter_skates.items-sprite-50x36, .items-sprite-winter_snowball.items-sprite-50x36 {
+.items-sprite-winter_greevil_treat.items-sprite-50x36, .items-sprite-winter_ham.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -650px -108px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-winter_snowball.items-sprite-50x36 {
+.items-sprite-winter_ham.items-sprite-50x36 {
   background-position: -650px -144px; }
 
-.items-sprite-winter_stocking.items-sprite-50x36, .items-sprite-winter_woolies.items-sprite-50x36 {
+.items-sprite-winter_kringle.items-sprite-50x36, .items-sprite-winter_mushroom.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -650px -180px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-winter_woolies.items-sprite-50x36 {
+.items-sprite-winter_mushroom.items-sprite-50x36 {
   background-position: -650px -216px; }
 
-.items-sprite-wraith_band.items-sprite-50x36, .items-sprite-yasha.items-sprite-50x36 {
+.items-sprite-winter_skates.items-sprite-50x36, .items-sprite-winter_snowball.items-sprite-50x36 {
   background-image: url(img/items_50x36_sprite.jpg);
   background-position: -650px -252px;
   width: 50px;
   height: 36px; }
 
-.items-sprite-yasha.items-sprite-50x36 {
+.items-sprite-winter_snowball.items-sprite-50x36 {
   background-position: -650px -288px; }
+
+.items-sprite-winter_stocking.items-sprite-50x36, .items-sprite-winter_woolies.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -650px -324px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-winter_woolies.items-sprite-50x36 {
+  background-position: -650px -360px; }
+
+.items-sprite-wraith_band.items-sprite-50x36, .items-sprite-yasha.items-sprite-50x36 {
+  background-image: url(img/items_50x36_sprite.jpg);
+  background-position: -650px -396px;
+  width: 50px;
+  height: 36px; }
+
+.items-sprite-yasha.items-sprite-50x36 {
+  background-position: -650px -432px; }
 
 .heroes-sprite-abaddon.heroes-sprite-32x18, .heroes-sprite-abyssal_underlord.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
@@ -1313,7 +1331,7 @@
   height: 18px; }
 
 .heroes-sprite-abyssal_underlord.heroes-sprite-32x18 {
-  background-position: -192px -126px; }
+  background-position: -192px -162px; }
 
 .heroes-sprite-alchemist.heroes-sprite-32x18, .heroes-sprite-ancient_apparition.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
@@ -1414,198 +1432,207 @@
 .heroes-sprite-dark_seer.heroes-sprite-32x18 {
   background-position: -96px -90px; }
 
-.heroes-sprite-dazzle.heroes-sprite-32x18, .heroes-sprite-death_prophet.heroes-sprite-32x18 {
+.heroes-sprite-dark_willow.heroes-sprite-32x18, .heroes-sprite-dazzle.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: 0 -108px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-death_prophet.heroes-sprite-32x18 {
+.heroes-sprite-dazzle.heroes-sprite-32x18 {
   background-position: -32px -108px; }
 
-.heroes-sprite-default.heroes-sprite-32x18, .heroes-sprite-disruptor.heroes-sprite-32x18 {
+.heroes-sprite-death_prophet.heroes-sprite-32x18, .heroes-sprite-default.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -64px -108px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-disruptor.heroes-sprite-32x18 {
+.heroes-sprite-default.heroes-sprite-32x18 {
   background-position: -96px -108px; }
 
-.heroes-sprite-doom_bringer.heroes-sprite-32x18, .heroes-sprite-dragon_knight.heroes-sprite-32x18 {
+.heroes-sprite-disruptor.heroes-sprite-32x18, .heroes-sprite-doom_bringer.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px 0;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-dragon_knight.heroes-sprite-32x18 {
+.heroes-sprite-doom_bringer.heroes-sprite-32x18 {
   background-position: -128px -18px; }
 
-.heroes-sprite-drow_ranger.heroes-sprite-32x18, .heroes-sprite-earth_spirit.heroes-sprite-32x18 {
+.heroes-sprite-dragon_knight.heroes-sprite-32x18, .heroes-sprite-drow_ranger.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -36px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-earth_spirit.heroes-sprite-32x18 {
+.heroes-sprite-drow_ranger.heroes-sprite-32x18 {
   background-position: -128px -54px; }
 
-.heroes-sprite-earthshaker.heroes-sprite-32x18, .heroes-sprite-elder_titan.heroes-sprite-32x18 {
+.heroes-sprite-earth_spirit.heroes-sprite-32x18, .heroes-sprite-earthshaker.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
-  background-position: -128px -72px;
+  background-position: -128px -90px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-elder_titan.heroes-sprite-32x18 {
-  background-position: -128px -90px; }
+.heroes-sprite-earthshaker.heroes-sprite-32x18 {
+  background-position: -128px -72px; }
 
-.heroes-sprite-ember_spirit.heroes-sprite-32x18, .heroes-sprite-enchantress.heroes-sprite-32x18 {
+.heroes-sprite-elder_titan.heroes-sprite-32x18, .heroes-sprite-ember_spirit.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -108px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-enchantress.heroes-sprite-32x18 {
+.heroes-sprite-ember_spirit.heroes-sprite-32x18 {
   background-position: 0 -126px; }
 
-.heroes-sprite-enigma.heroes-sprite-32x18, .heroes-sprite-faceless_void.heroes-sprite-32x18 {
+.heroes-sprite-enchantress.heroes-sprite-32x18, .heroes-sprite-enigma.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -32px -126px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-faceless_void.heroes-sprite-32x18 {
+.heroes-sprite-enigma.heroes-sprite-32x18 {
   background-position: -64px -126px; }
 
-.heroes-sprite-furion.heroes-sprite-32x18, .heroes-sprite-greevil.heroes-sprite-32x18 {
+.heroes-sprite-faceless_void.heroes-sprite-32x18, .heroes-sprite-furion.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -96px -126px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-greevil.heroes-sprite-32x18 {
+.heroes-sprite-furion.heroes-sprite-32x18 {
   background-position: -128px -126px; }
 
-.heroes-sprite-gyrocopter.heroes-sprite-32x18, .heroes-sprite-huskar.heroes-sprite-32x18 {
+.heroes-sprite-greevil.heroes-sprite-32x18, .heroes-sprite-gyrocopter.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -160px 0;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-huskar.heroes-sprite-32x18 {
+.heroes-sprite-gyrocopter.heroes-sprite-32x18 {
   background-position: -160px -18px; }
 
-.heroes-sprite-invoker.heroes-sprite-32x18, .heroes-sprite-jakiro.heroes-sprite-32x18 {
+.heroes-sprite-huskar.heroes-sprite-32x18, .heroes-sprite-invoker.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -160px -36px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-jakiro.heroes-sprite-32x18 {
+.heroes-sprite-invoker.heroes-sprite-32x18 {
   background-position: -160px -54px; }
 
-.heroes-sprite-juggernaut.heroes-sprite-32x18, .heroes-sprite-keeper_of_the_light.heroes-sprite-32x18 {
+.heroes-sprite-jakiro.heroes-sprite-32x18, .heroes-sprite-juggernaut.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -160px -72px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-keeper_of_the_light.heroes-sprite-32x18 {
+.heroes-sprite-juggernaut.heroes-sprite-32x18 {
   background-position: -160px -90px; }
 
-.heroes-sprite-kunkka.heroes-sprite-32x18, .heroes-sprite-legion_commander.heroes-sprite-32x18 {
+.heroes-sprite-juggernaut_alt1.heroes-sprite-32x18, .heroes-sprite-keeper_of_the_light.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -160px -108px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-legion_commander.heroes-sprite-32x18 {
+.heroes-sprite-keeper_of_the_light.heroes-sprite-32x18 {
   background-position: -160px -126px; }
 
-.heroes-sprite-legion_commander_alt1.heroes-sprite-32x18, .heroes-sprite-leshrac.heroes-sprite-32x18 {
+.heroes-sprite-kunkka.heroes-sprite-32x18, .heroes-sprite-legion_commander.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: 0 -144px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-leshrac.heroes-sprite-32x18 {
+.heroes-sprite-legion_commander.heroes-sprite-32x18 {
   background-position: -32px -144px; }
 
-.heroes-sprite-lich.heroes-sprite-32x18, .heroes-sprite-life_stealer.heroes-sprite-32x18 {
+.heroes-sprite-legion_commander_alt1.heroes-sprite-32x18, .heroes-sprite-leshrac.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -64px -144px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-life_stealer.heroes-sprite-32x18 {
+.heroes-sprite-leshrac.heroes-sprite-32x18 {
   background-position: -96px -144px; }
 
-.heroes-sprite-lina.heroes-sprite-32x18, .heroes-sprite-lina_alt1.heroes-sprite-32x18 {
+.heroes-sprite-lich.heroes-sprite-32x18, .heroes-sprite-life_stealer.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -144px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-lina_alt1.heroes-sprite-32x18 {
+.heroes-sprite-life_stealer.heroes-sprite-32x18 {
   background-position: -160px -144px; }
 
-.heroes-sprite-lion.heroes-sprite-32x18, .heroes-sprite-lone_druid.heroes-sprite-32x18 {
+.heroes-sprite-lina.heroes-sprite-32x18, .heroes-sprite-lina_alt1.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: 0 -162px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-lone_druid.heroes-sprite-32x18 {
+.heroes-sprite-lina_alt1.heroes-sprite-32x18 {
   background-position: -32px -162px; }
 
-.heroes-sprite-luna.heroes-sprite-32x18, .heroes-sprite-lycan.heroes-sprite-32x18 {
+.heroes-sprite-lion.heroes-sprite-32x18, .heroes-sprite-lone_druid.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -64px -162px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-lycan.heroes-sprite-32x18 {
+.heroes-sprite-lone_druid.heroes-sprite-32x18 {
   background-position: -96px -162px; }
 
-.heroes-sprite-magnataur.heroes-sprite-32x18, .heroes-sprite-medusa.heroes-sprite-32x18 {
+.heroes-sprite-luna.heroes-sprite-32x18, .heroes-sprite-lycan.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -162px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-medusa.heroes-sprite-32x18 {
+.heroes-sprite-lycan.heroes-sprite-32x18 {
   background-position: -160px -162px; }
 
-.heroes-sprite-meepo.heroes-sprite-32x18, .heroes-sprite-mirana.heroes-sprite-32x18 {
+.heroes-sprite-magnataur.heroes-sprite-32x18, .heroes-sprite-medusa.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -192px 0;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-mirana.heroes-sprite-32x18 {
+.heroes-sprite-medusa.heroes-sprite-32x18 {
   background-position: -192px -18px; }
 
-.heroes-sprite-monkey_king.heroes-sprite-32x18, .heroes-sprite-monkey_king_alt1.heroes-sprite-32x18 {
+.heroes-sprite-meepo.heroes-sprite-32x18, .heroes-sprite-mirana.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -192px -36px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-monkey_king_alt1.heroes-sprite-32x18 {
+.heroes-sprite-mirana.heroes-sprite-32x18 {
   background-position: -192px -54px; }
 
-.heroes-sprite-morphling.heroes-sprite-32x18, .heroes-sprite-naga_siren.heroes-sprite-32x18 {
+.heroes-sprite-monkey_king.heroes-sprite-32x18, .heroes-sprite-monkey_king_alt1.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -192px -72px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-naga_siren.heroes-sprite-32x18 {
+.heroes-sprite-monkey_king_alt1.heroes-sprite-32x18 {
   background-position: -192px -90px; }
+
+.heroes-sprite-morphling.heroes-sprite-32x18, .heroes-sprite-naga_siren.heroes-sprite-32x18 {
+  background-image: url(img/heroes_32x18_sprite.jpg);
+  background-position: -192px -108px;
+  width: 32px;
+  height: 18px; }
+
+.heroes-sprite-naga_siren.heroes-sprite-32x18 {
+  background-position: -192px -126px; }
 
 .heroes-sprite-necrolyte.heroes-sprite-32x18, .heroes-sprite-neutrals.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
-  background-position: -192px -108px;
+  background-position: -192px -144px;
   width: 32px;
   height: 18px; }
 
@@ -1614,300 +1641,309 @@
 
 .heroes-sprite-nevermore.heroes-sprite-32x18, .heroes-sprite-nevermore_alt1.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
-  background-position: -192px -144px;
-  width: 32px;
-  height: 18px; }
-
-.heroes-sprite-nevermore_alt1.heroes-sprite-32x18 {
-  background-position: -192px -162px; }
-
-.heroes-sprite-nian.heroes-sprite-32x18, .heroes-sprite-nian_dire.heroes-sprite-32x18 {
-  background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: 0 -180px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-nian_dire.heroes-sprite-32x18 {
+.heroes-sprite-nevermore_alt1.heroes-sprite-32x18 {
   background-position: -32px -180px; }
 
-.heroes-sprite-night_stalker.heroes-sprite-32x18, .heroes-sprite-nyx_assassin.heroes-sprite-32x18 {
+.heroes-sprite-nian.heroes-sprite-32x18, .heroes-sprite-nian_dire.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -64px -180px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-nyx_assassin.heroes-sprite-32x18 {
+.heroes-sprite-nian_dire.heroes-sprite-32x18 {
   background-position: -96px -180px; }
 
-.heroes-sprite-obsidian_destroyer.heroes-sprite-32x18, .heroes-sprite-ogre_magi.heroes-sprite-32x18 {
+.heroes-sprite-night_stalker.heroes-sprite-32x18, .heroes-sprite-nyx_assassin.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -180px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-ogre_magi.heroes-sprite-32x18 {
+.heroes-sprite-nyx_assassin.heroes-sprite-32x18 {
   background-position: -160px -180px; }
 
-.heroes-sprite-omniknight.heroes-sprite-32x18, .heroes-sprite-oracle.heroes-sprite-32x18 {
+.heroes-sprite-obsidian_destroyer.heroes-sprite-32x18, .heroes-sprite-ogre_magi.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -192px -180px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-oracle.heroes-sprite-32x18 {
+.heroes-sprite-ogre_magi.heroes-sprite-32x18 {
   background-position: 0 -198px; }
 
-.heroes-sprite-phantom_assassin.heroes-sprite-32x18, .heroes-sprite-phantom_assassin_alt1.heroes-sprite-32x18 {
+.heroes-sprite-omniknight.heroes-sprite-32x18, .heroes-sprite-oracle.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -32px -198px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-phantom_assassin_alt1.heroes-sprite-32x18 {
+.heroes-sprite-oracle.heroes-sprite-32x18 {
   background-position: -64px -198px; }
 
-.heroes-sprite-phantom_lancer.heroes-sprite-32x18, .heroes-sprite-phoenix.heroes-sprite-32x18 {
+.heroes-sprite-pangolier.heroes-sprite-32x18, .heroes-sprite-phantom_assassin.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -96px -198px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-phoenix.heroes-sprite-32x18 {
+.heroes-sprite-phantom_assassin.heroes-sprite-32x18 {
   background-position: -128px -198px; }
 
-.heroes-sprite-puck.heroes-sprite-32x18, .heroes-sprite-pudge.heroes-sprite-32x18 {
+.heroes-sprite-phantom_assassin_alt1.heroes-sprite-32x18, .heroes-sprite-phantom_lancer.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -160px -198px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-pudge.heroes-sprite-32x18 {
+.heroes-sprite-phantom_lancer.heroes-sprite-32x18 {
   background-position: -192px -198px; }
 
-.heroes-sprite-pugna.heroes-sprite-32x18, .heroes-sprite-queenofpain.heroes-sprite-32x18 {
+.heroes-sprite-phoenix.heroes-sprite-32x18, .heroes-sprite-puck.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -224px 0;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-queenofpain.heroes-sprite-32x18 {
+.heroes-sprite-puck.heroes-sprite-32x18 {
   background-position: -224px -18px; }
 
-.heroes-sprite-rattletrap.heroes-sprite-32x18, .heroes-sprite-razor.heroes-sprite-32x18 {
+.heroes-sprite-pudge.heroes-sprite-32x18, .heroes-sprite-pugna.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -224px -36px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-razor.heroes-sprite-32x18 {
+.heroes-sprite-pugna.heroes-sprite-32x18 {
   background-position: -224px -54px; }
 
-.heroes-sprite-riki.heroes-sprite-32x18, .heroes-sprite-roshan.heroes-sprite-32x18 {
+.heroes-sprite-queenofpain.heroes-sprite-32x18, .heroes-sprite-rattletrap.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -224px -72px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-roshan.heroes-sprite-32x18 {
+.heroes-sprite-rattletrap.heroes-sprite-32x18 {
   background-position: -224px -90px; }
 
-.heroes-sprite-rubick.heroes-sprite-32x18, .heroes-sprite-sand_king.heroes-sprite-32x18 {
+.heroes-sprite-razor.heroes-sprite-32x18, .heroes-sprite-riki.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -224px -108px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-sand_king.heroes-sprite-32x18 {
+.heroes-sprite-riki.heroes-sprite-32x18 {
   background-position: -224px -126px; }
 
-.heroes-sprite-shadow_demon.heroes-sprite-32x18, .heroes-sprite-shadow_shaman.heroes-sprite-32x18 {
+.heroes-sprite-roshan.heroes-sprite-32x18, .heroes-sprite-rubick.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -224px -144px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-shadow_shaman.heroes-sprite-32x18 {
+.heroes-sprite-rubick.heroes-sprite-32x18 {
   background-position: -224px -162px; }
 
-.heroes-sprite-shredder.heroes-sprite-32x18, .heroes-sprite-silencer.heroes-sprite-32x18 {
+.heroes-sprite-sand_king.heroes-sprite-32x18, .heroes-sprite-shadow_demon.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -224px -180px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-silencer.heroes-sprite-32x18 {
+.heroes-sprite-shadow_demon.heroes-sprite-32x18 {
   background-position: -224px -198px; }
 
-.heroes-sprite-skeleton_king.heroes-sprite-32x18, .heroes-sprite-skywrath_mage.heroes-sprite-32x18 {
+.heroes-sprite-shadow_shaman.heroes-sprite-32x18, .heroes-sprite-shredder.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: 0 -216px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-skywrath_mage.heroes-sprite-32x18 {
+.heroes-sprite-shredder.heroes-sprite-32x18 {
   background-position: -32px -216px; }
 
-.heroes-sprite-slardar.heroes-sprite-32x18, .heroes-sprite-slark.heroes-sprite-32x18 {
+.heroes-sprite-silencer.heroes-sprite-32x18, .heroes-sprite-skeleton_king.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -64px -216px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-slark.heroes-sprite-32x18 {
+.heroes-sprite-skeleton_king.heroes-sprite-32x18 {
   background-position: -96px -216px; }
 
-.heroes-sprite-sniper.heroes-sprite-32x18, .heroes-sprite-spectre.heroes-sprite-32x18 {
+.heroes-sprite-skywrath_mage.heroes-sprite-32x18, .heroes-sprite-slardar.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -216px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-spectre.heroes-sprite-32x18 {
+.heroes-sprite-slardar.heroes-sprite-32x18 {
   background-position: -160px -216px; }
 
-.heroes-sprite-spirit_bear.heroes-sprite-32x18, .heroes-sprite-spirit_breaker.heroes-sprite-32x18 {
+.heroes-sprite-slark.heroes-sprite-32x18, .heroes-sprite-sniper.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -192px -216px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-spirit_breaker.heroes-sprite-32x18 {
+.heroes-sprite-sniper.heroes-sprite-32x18 {
   background-position: -224px -216px; }
 
-.heroes-sprite-storm_spirit.heroes-sprite-32x18, .heroes-sprite-sven.heroes-sprite-32x18 {
+.heroes-sprite-spectre.heroes-sprite-32x18, .heroes-sprite-spirit_bear.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: 0 -234px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-sven.heroes-sprite-32x18 {
+.heroes-sprite-spirit_bear.heroes-sprite-32x18 {
   background-position: -32px -234px; }
 
-.heroes-sprite-techies.heroes-sprite-32x18, .heroes-sprite-techies_alt1.heroes-sprite-32x18 {
+.heroes-sprite-spirit_breaker.heroes-sprite-32x18, .heroes-sprite-storm_spirit.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -64px -234px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-techies_alt1.heroes-sprite-32x18 {
+.heroes-sprite-storm_spirit.heroes-sprite-32x18 {
   background-position: -96px -234px; }
 
-.heroes-sprite-templar_assassin.heroes-sprite-32x18, .heroes-sprite-terrorblade.heroes-sprite-32x18 {
+.heroes-sprite-sven.heroes-sprite-32x18, .heroes-sprite-techies.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -234px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-terrorblade.heroes-sprite-32x18 {
+.heroes-sprite-techies.heroes-sprite-32x18 {
   background-position: -160px -234px; }
 
-.heroes-sprite-terrorblade_alt1.heroes-sprite-32x18, .heroes-sprite-tidehunter.heroes-sprite-32x18 {
+.heroes-sprite-techies_alt1.heroes-sprite-32x18, .heroes-sprite-templar_assassin.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -192px -234px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-tidehunter.heroes-sprite-32x18 {
+.heroes-sprite-templar_assassin.heroes-sprite-32x18 {
   background-position: -224px -234px; }
 
-.heroes-sprite-tinker.heroes-sprite-32x18, .heroes-sprite-tiny.heroes-sprite-32x18 {
+.heroes-sprite-terrorblade.heroes-sprite-32x18, .heroes-sprite-terrorblade_alt1.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -256px 0;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-tiny.heroes-sprite-32x18 {
+.heroes-sprite-terrorblade_alt1.heroes-sprite-32x18 {
   background-position: -256px -18px; }
 
-.heroes-sprite-tower_dire.heroes-sprite-32x18, .heroes-sprite-tower_radiant.heroes-sprite-32x18 {
+.heroes-sprite-tidehunter.heroes-sprite-32x18, .heroes-sprite-tinker.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -256px -36px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-tower_radiant.heroes-sprite-32x18 {
+.heroes-sprite-tinker.heroes-sprite-32x18 {
   background-position: -256px -54px; }
 
-.heroes-sprite-treant.heroes-sprite-32x18, .heroes-sprite-troll_warlord.heroes-sprite-32x18 {
+.heroes-sprite-tiny.heroes-sprite-32x18, .heroes-sprite-tower_dire.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -256px -72px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-troll_warlord.heroes-sprite-32x18 {
+.heroes-sprite-tower_dire.heroes-sprite-32x18 {
   background-position: -256px -90px; }
 
-.heroes-sprite-tusk.heroes-sprite-32x18, .heroes-sprite-undying.heroes-sprite-32x18 {
+.heroes-sprite-tower_radiant.heroes-sprite-32x18, .heroes-sprite-treant.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -256px -108px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-undying.heroes-sprite-32x18 {
+.heroes-sprite-treant.heroes-sprite-32x18 {
   background-position: -256px -126px; }
 
-.heroes-sprite-ursa.heroes-sprite-32x18, .heroes-sprite-vengefulspirit.heroes-sprite-32x18 {
+.heroes-sprite-troll_warlord.heroes-sprite-32x18, .heroes-sprite-tusk.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -256px -144px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-vengefulspirit.heroes-sprite-32x18 {
+.heroes-sprite-tusk.heroes-sprite-32x18 {
   background-position: -256px -162px; }
 
-.heroes-sprite-venomancer.heroes-sprite-32x18, .heroes-sprite-viper.heroes-sprite-32x18 {
+.heroes-sprite-undying.heroes-sprite-32x18, .heroes-sprite-ursa.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -256px -180px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-viper.heroes-sprite-32x18 {
+.heroes-sprite-ursa.heroes-sprite-32x18 {
   background-position: -256px -198px; }
 
-.heroes-sprite-visage.heroes-sprite-32x18, .heroes-sprite-warlock.heroes-sprite-32x18 {
+.heroes-sprite-vengefulspirit.heroes-sprite-32x18, .heroes-sprite-venomancer.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -256px -216px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-warlock.heroes-sprite-32x18 {
+.heroes-sprite-venomancer.heroes-sprite-32x18 {
   background-position: -256px -234px; }
 
-.heroes-sprite-weaver.heroes-sprite-32x18, .heroes-sprite-windrunner.heroes-sprite-32x18 {
+.heroes-sprite-viper.heroes-sprite-32x18, .heroes-sprite-visage.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: 0 -252px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-windrunner.heroes-sprite-32x18 {
+.heroes-sprite-visage.heroes-sprite-32x18 {
   background-position: -32px -252px; }
 
-.heroes-sprite-winter_wyvern.heroes-sprite-32x18, .heroes-sprite-wisp.heroes-sprite-32x18 {
+.heroes-sprite-warlock.heroes-sprite-32x18, .heroes-sprite-weaver.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -64px -252px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-wisp.heroes-sprite-32x18 {
+.heroes-sprite-weaver.heroes-sprite-32x18 {
   background-position: -96px -252px; }
 
-.heroes-sprite-witch_doctor.heroes-sprite-32x18, .heroes-sprite-zeus_alt1.heroes-sprite-32x18 {
+.heroes-sprite-windrunner.heroes-sprite-32x18, .heroes-sprite-winter_wyvern.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -128px -252px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-zeus_alt1.heroes-sprite-32x18 {
+.heroes-sprite-winter_wyvern.heroes-sprite-32x18 {
   background-position: -160px -252px; }
 
-.heroes-sprite-zuus.heroes-sprite-32x18, .heroes-sprite-zuus_alt1.heroes-sprite-32x18 {
+.heroes-sprite-wisp.heroes-sprite-32x18, .heroes-sprite-wisp_alt.heroes-sprite-32x18 {
   background-image: url(img/heroes_32x18_sprite.jpg);
   background-position: -192px -252px;
   width: 32px;
   height: 18px; }
 
-.heroes-sprite-zuus_alt1.heroes-sprite-32x18 {
+.heroes-sprite-wisp_alt.heroes-sprite-32x18 {
   background-position: -224px -252px; }
+
+.heroes-sprite-witch_doctor.heroes-sprite-32x18, .heroes-sprite-zeus_alt1.heroes-sprite-32x18 {
+  background-image: url(img/heroes_32x18_sprite.jpg);
+  background-position: -256px -252px;
+  width: 32px;
+  height: 18px; }
+
+.heroes-sprite-zeus_alt1.heroes-sprite-32x18 {
+  background-position: 0 -270px; }
+
+.heroes-sprite-zuus.heroes-sprite-32x18, .heroes-sprite-zuus_alt1.heroes-sprite-32x18 {
+  background-image: url(img/heroes_32x18_sprite.jpg);
+  background-position: -32px -270px;
+  width: 32px;
+  height: 18px; }
+
+.heroes-sprite-zuus_alt1.heroes-sprite-32x18 {
+  background-position: -64px -270px; }
 
 .links-section a {
   padding-left: 12px; }
