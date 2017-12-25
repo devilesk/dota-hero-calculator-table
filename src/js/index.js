@@ -106,6 +106,26 @@ var App = function (appConfig) {
                     case 'dps':
                         val = hero.damageTotalInfo().totalRow[2]().toFixed(2);
                     break;
+                    case 'totalAgi':
+                    case 'totalInt':
+                    case 'totalStr':
+                    case 'health':
+                    case 'healthregen':
+                    case 'mana':
+                    case 'manaregen':
+                    case 'totalArmorPhysical':
+                        val = hero[prop]().total.toFixed(2);
+                    break;
+                    case 'totalArmorPhysicalReduction':
+                    case 'totalStatusResistance':
+                    case 'totalMagicResistance':
+                    case 'evasion':
+                    case 'bash':
+                    case 'critChance':
+                    case 'missChance':
+                    case 'lifesteal':
+                        val = (hero[prop]() * 100).toFixed(2);
+                    break;
                     default:
                         val = hero[prop]();
                     break;
@@ -291,9 +311,9 @@ var App = function (appConfig) {
                     });
                 }
                 
-            }).extend({ deferred: true });;
+            }).extend({ deferred: true });
             
-            self.rowCount = ko.computed(function () {
+            self.rowCount = ko.pureComputed(function () {
                 return self.heroes().filter(function (hero) {
                     return hero.rowVisible();
                 }).length;           
@@ -368,7 +388,7 @@ var App = function (appConfig) {
                     hero.inventory.items.push(item);
                 });
             }
-            self.itemOptions = ko.computed(function () {
+            self.itemOptions = ko.pureComputed(function () {
                 return self.heroes()[0].inventory.itemOptions();
             });
 
@@ -432,10 +452,10 @@ var App = function (appConfig) {
                 self.selectedItem(event.target.id);
             }
             
-            self.getItemTooltipData = ko.computed(function () {
+            self.getItemTooltipData = ko.pureComputed(function () {
                 return getItemTooltipData(itemData, self.selectedItem());
             }, this);
-            self.getItemInputLabel = ko.computed(function () {
+            self.getItemInputLabel = ko.pureComputed(function () {
                 if (stackableItems.indexOf(self.selectedItem()) != -1) {
                     return 'Stack Size'
                 }
